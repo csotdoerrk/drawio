@@ -14,7 +14,10 @@ Die WTcut Symbole Sammlung enthält maßgeschneiderte Shapes, die für die Visua
 ![Bildschirmfoto 2024-08-06 um 13 07 36](https://github.com/user-attachments/assets/0fd01a51-121c-41e5-8f95-947286d8b17a)
 
 ### 2. Regiemöbel Pläne
-Die Sammlung für Regiemöbel ist ideal für die Planung und Visualisierung der Speedmastermöbeln.
+Die Sammlung für Regiemöbel ist ideal für die Planung und Visualisierung der Regiemöbel von Speedmaster.
+
+![image](https://github.com/user-attachments/assets/96ffb94b-dcb1-498e-bd38-42c2d2d9919b)
+
 ## Verwendung
 
 1. **Herunterladen**: Lade die gewünschte Shape-Sammlung aus dem Repository herunter.
